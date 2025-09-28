@@ -1,0 +1,1 @@
+This repository contains a global biogeochemical climate model, modified from Zhao et al. (2023, NG), to include a new carbon sink representing volcanic ash–induced organic carbon burial in the Triassic Ordos superlake. 
